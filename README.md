@@ -1,19 +1,26 @@
-# welcome to my Repository
-## there is my info about me
+# This is my Repository
+## My name is CAT
 
-**this font is hold**
+![](https://th.bing.com/th/id/OIP.Z4UUr7rXPvOvoALaQfeEnAHaFj?pid=ImgDet&rs=1)
 
-*this font is italic*
+**I'm javascript developer:** *There is Example of my code*
 
-List of items:
-* item1
-* item2
-* item3
-
-  ```javascript
+```javascript
   
-  int text = "Hello"
+int isAlive = true;
+
+do {
+  code();
+}
+while(isAlive);
+
+function code() {
+  alert("Hello world");
+}
 
   ```
 
-  [ClickMe}(https://www.google.com)
+This is Unordered list:
+* [my facebook](https://www.facebook.com/)
+* [my website](https://www.google.com/)
+* [my instagram](https://www.instagram.com/)
